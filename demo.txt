@@ -5,6 +5,10 @@ public class Demo
     System.out.print("hello world");
     System.out.print("hello ");
     System.out.print("hello guys");
+<<<<<<< HEAD
+=======
+    System.out.print("hello guys");
+>>>>>>> 65a164658514df3a98abbd152a3215392bf2f3e7
     System.out.print("branch1 updated ");
   }
 }
